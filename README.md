@@ -1,7 +1,7 @@
 # netmeds-clone
 Netmeds is one of India's leading healthcare aggregators and most trusted medicine delivery website. Features:  Sign up/Login Page  Home Page  Cart  Booking
 
-# Beardo Clone
+# Netmeds Clone
 
 ### Project Description
 
@@ -74,7 +74,7 @@ _To start with the Project run the following command in terminal in "backend" fo
 
 ### Medium Link
 
-https://medium.com/@neelam_fw15_449/clone-of-beardo-in-including-frontend-backend-49dd8194bb78
+<!-- https://medium.com/@neelam_fw15_449/clone-of-beardo-in-including-frontend-backend-49dd8194bb78 -->
 
 ### Google Drive Link
 
