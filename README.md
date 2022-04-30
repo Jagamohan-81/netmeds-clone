@@ -74,13 +74,13 @@ _To start with the Project run the following command in terminal in "backend" fo
 
 ### Medium Link
 
-<!-- https://medium.com/@neelam_fw15_449/clone-of-beardo-in-including-frontend-backend-49dd8194bb78 -->
+https://medium.com/@lipunlive
 
 ### Google Drive Link
 
 https://drive.google.com/drive/folders/1Gsq9AyyDSAn02JTst-GUjWtSsvTVMNCM?usp=sharing
 
 
-### Vercel Link
-<!-- https://beardoclone.vercel.app/ -->
+### Netlfy Link
+https://netmeds-clone-unit2.netlify.app/
 
